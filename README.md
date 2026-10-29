@@ -28,3 +28,10 @@ distribute music and is not affiliated with Apple.
 ## Privacy
 
 Read the [PodBridge Privacy Policy](PRIVACY.md).
+## Partner onboarding
+
+Partner onboarding page: [for iPod sellers](for-ipod-sellers.html).
+
+The page preserves a validated `source` query parameter through the App Store
+link so partner and creator traffic can be compared without sharing personal
+data.
