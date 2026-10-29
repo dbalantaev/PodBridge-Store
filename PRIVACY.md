@@ -2,8 +2,11 @@
 
 Effective date: September 9, 2026
 
-PodBridge does not require an account, contain advertising or analytics, track
-users, or sell personal information.
+PodBridge does not require an account, contain advertising, or sell personal
+information. The app may send a small number of anonymous product-usage events
+to measure transfer reliability and improve the app. These events do not
+contain names, account identifiers, filenames, paths, music metadata, audio,
+or iPod identifiers.
 
 ## Data stored on the device
 
@@ -16,6 +19,15 @@ diagnostic logs, or file paths.
 
 Local PodBridge data can be removed by deleting the app. Backups written to an
 iPod remain on that iPod until the user removes them.
+
+## Anonymous product analytics
+
+When the user has allowed app diagnostics and the app has a configured
+analytics build, PodBridge sends anonymous events such as app launch, source
+scan completion, transfer start, transfer success, and broad transfer failure
+category. The events are not linked to an account and are used only for product
+analytics and reliability improvements. The analytics provider is PostHog, and
+the app uses its EU endpoint.
 
 ## Optional self-hosted ALACarte connection
 
