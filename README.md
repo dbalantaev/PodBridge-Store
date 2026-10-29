@@ -28,7 +28,16 @@ distribute music and is not affiliated with Apple.
 ## Privacy
 
 Read the [PodBridge Privacy Policy](PRIVACY.md).
-## Partner onboarding
+## Guides and partner onboarding
+
+Public guide hub: [PodBridge iPod guides](index.html).
+
+The guide pages target high-intent questions from owners who have already
+restored or modified an iPod:
+
+- [How to put music on an iPod Classic](how-to-put-music-on-ipod-classic.html)
+- [How to sync an iPod without iTunes](ipod-without-itunes.html)
+- [How to sync a modded iPod safely](modded-ipod-sync.html)
 
 Partner onboarding page: [for iPod sellers](for-ipod-sellers.html).
 
