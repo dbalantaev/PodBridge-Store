@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dbalantaev.github.io/PodBridge-Store/sitemap.xml

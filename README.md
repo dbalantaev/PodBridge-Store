@@ -32,6 +32,9 @@ Read the [PodBridge Privacy Policy](PRIVACY.md).
 
 Public guide hub: [PodBridge iPod guides](index.html).
 
+The repository also publishes `robots.txt` and `sitemap.xml` so search engines
+can discover the guide cluster from the public Pages site.
+
 The guide pages target high-intent questions from owners who have already
 restored or modified an iPod:
 
