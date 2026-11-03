@@ -1,6 +1,6 @@
 # PodBridge Privacy Policy
 
-Effective date: September 9, 2026
+Effective date: November 3, 2026
 
 PodBridge does not require an account, contain advertising, or sell personal
 information. The app may send a small number of pseudonymous product-usage events

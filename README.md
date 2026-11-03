@@ -27,7 +27,9 @@ distribute music and is not affiliated with Apple.
 
 ## Privacy
 
-Read the [PodBridge Privacy Policy](PRIVACY.md).
+Read the [PodBridge Privacy Policy](privacy.html).
+
+For product help, use the [PodBridge Support page](support.html).
 ## Guides and partner onboarding
 
 Public guide hub: [PodBridge iPod guides](index.html).
